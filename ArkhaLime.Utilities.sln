@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArkhaLime.Utilities.Winforms", "ArkhaLime.Utilities.Winforms\ArkhaLime.Utilities.Winforms.csproj", "{CF611C17-1215-4CD0-8AB3-3B94FD43FCD3}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF611C17-1215-4CD0-8AB3-3B94FD43FCD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF611C17-1215-4CD0-8AB3-3B94FD43FCD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF611C17-1215-4CD0-8AB3-3B94FD43FCD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF611C17-1215-4CD0-8AB3-3B94FD43FCD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
